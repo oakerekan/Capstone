@@ -14,8 +14,8 @@ BQ_DATASET = "Etl_capstone"
 BQ_TABLE = "Table_capstone"
 GCS_BUCKET = "etl_bucket_capstone"
 # Postgres config variables
-PG_CONN_ID = "capstoneconn"
-PG_SCHEMA = "Brazilian_ecommerce"
+PG_CONN_ID = "Capstoneconn"
+PG_SCHEMA = "brazilian_ecommerce"
 tables = [
     "customers",
     "geolocation",
