@@ -1,0 +1,9 @@
+ecommerce_dbt:
+  target: dev
+  outputs:
+    dev:
+      type: bigquery
+      threads: 1
+      project: your-gcp-project-id
+      dataset: ecommerce
+      keyfile: path/to/your/service/account/keyfile.json
