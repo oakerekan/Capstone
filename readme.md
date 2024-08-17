@@ -1,4 +1,4 @@
-**Brazilian E-Commerce ETL Pipeline**
+# Brazilian E-Commerce ETL Pipeline
 
 ![Alt text](https://github.com/oakerekan/Capstone/blob/main/assets/Images/Untitled-2024-08-16-2129.png)
 
