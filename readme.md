@@ -3,6 +3,8 @@
 ![Alt text](https://github.com/oakerekan/Capstone/blob/main/assets/Images/Untitled-2024-08-16-2129.png)
 
 
+
+
 ### Project Overview</b>
 This project uses the Brazilian E-Commerce dataset to create an end-to-end ETL (Extract, Transform, Load) pipeline. The goal is to develop a pipeline that ingests data into PostgreSQL, processes and transforms it, and then loads it into Google BigQuery. The project also includes answering analytical questions based on the transformed data.
 
@@ -12,6 +14,9 @@ Docker & Docker Compose: For containerization and managing services.
 Apache Airflow: For orchestrating the ETL process.
 dbt: For data transformation and modeling.
 Google BigQuery: For data warehousing and analysis.
+
+![Alt text](https://github.com/oakerekan/Capstone/blob/main/assets/Images/image.png)
+
 
 
 Project Steps
