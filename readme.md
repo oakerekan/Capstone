@@ -1,5 +1,8 @@
 **Brazilian E-Commerce ETL Pipeline**
 
+![Alt text](https://github.com/oakerekan/Capstone/blob/main/assets/Images/Untitled-2024-08-16-2129.png)
+
+
 ###Project Overview
 This project involves creating an end-to-end ETL (Extract, Transform, Load) pipeline using the Brazilian E-Commerce dataset. The goal is to develop a pipeline that ingests data into PostgreSQL, processes and transforms it, and then loads it into Google BigQuery. The project also includes answering analytical questions based on the transformed data.
 
